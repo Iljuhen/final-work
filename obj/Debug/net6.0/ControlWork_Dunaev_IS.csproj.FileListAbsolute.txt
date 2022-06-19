@@ -1,0 +1,15 @@
+D:\GeekBrains\FinalWork\ControlWork_Dunaev_IS\bin\Debug\net6.0\ControlWork_Dunaev_IS.exe
+D:\GeekBrains\FinalWork\ControlWork_Dunaev_IS\bin\Debug\net6.0\ControlWork_Dunaev_IS.deps.json
+D:\GeekBrains\FinalWork\ControlWork_Dunaev_IS\bin\Debug\net6.0\ControlWork_Dunaev_IS.runtimeconfig.json
+D:\GeekBrains\FinalWork\ControlWork_Dunaev_IS\bin\Debug\net6.0\ControlWork_Dunaev_IS.dll
+D:\GeekBrains\FinalWork\ControlWork_Dunaev_IS\bin\Debug\net6.0\ControlWork_Dunaev_IS.pdb
+D:\GeekBrains\FinalWork\ControlWork_Dunaev_IS\obj\Debug\net6.0\ControlWork_Dunaev_IS.csproj.AssemblyReference.cache
+D:\GeekBrains\FinalWork\ControlWork_Dunaev_IS\obj\Debug\net6.0\ControlWork_Dunaev_IS.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\FinalWork\ControlWork_Dunaev_IS\obj\Debug\net6.0\ControlWork_Dunaev_IS.AssemblyInfoInputs.cache
+D:\GeekBrains\FinalWork\ControlWork_Dunaev_IS\obj\Debug\net6.0\ControlWork_Dunaev_IS.AssemblyInfo.cs
+D:\GeekBrains\FinalWork\ControlWork_Dunaev_IS\obj\Debug\net6.0\ControlWork_Dunaev_IS.csproj.CoreCompileInputs.cache
+D:\GeekBrains\FinalWork\ControlWork_Dunaev_IS\obj\Debug\net6.0\ControlWork_Dunaev_IS.dll
+D:\GeekBrains\FinalWork\ControlWork_Dunaev_IS\obj\Debug\net6.0\refint\ControlWork_Dunaev_IS.dll
+D:\GeekBrains\FinalWork\ControlWork_Dunaev_IS\obj\Debug\net6.0\ControlWork_Dunaev_IS.pdb
+D:\GeekBrains\FinalWork\ControlWork_Dunaev_IS\obj\Debug\net6.0\ControlWork_Dunaev_IS.genruntimeconfig.cache
+D:\GeekBrains\FinalWork\ControlWork_Dunaev_IS\obj\Debug\net6.0\ref\ControlWork_Dunaev_IS.dll
